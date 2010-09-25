@@ -1,9 +1,10 @@
 # Game On
-===============================================
+------------------------------------------------
 Game On is a motion based Game controler using Cell Phones, it allows any phone to work as a motion controller (kind of like Wii Controller).
 The Idea behind Game On was that todays Cell Phones have most of the hardware/sensers thats on Wii, so a Cell Phone could be used as a replacement for a Wii Contoller, Game On allows you to do so but currently just for racing games!!.
+[More Description](http://ankurs.com/2010/09/game-on-weekend-project-iii/)
 
-This Repo tracks code for 
+##This Repo tracks code for 
 * Android Application Source
 * PC Server Source
 * Toy Car Control Server
