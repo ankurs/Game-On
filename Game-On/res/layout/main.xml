@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView android:text="Debug" android:id="@+id/debuginfo" android:layout_width="wrap_content" android:layout_height="wrap_content"></TextView>
+<TextView  
+	android:id = "@+id/infotext"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+<EditText android:text="10.0.0.3" android:id="@+id/IP" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+<EditText android:text="9090" android:id="@+id/Port" android:layout_width="wrap_content" android:layout_height="wrap_content"></EditText>
+<Button android:text="Connect" android:id="@+id/ConnectButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+<Button android:text="Reset" android:id="@+id/ResetButton" android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+</LinearLayout>
